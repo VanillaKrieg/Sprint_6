@@ -1,2 +1,1 @@
-# qa_java
-QA Java Project
+Covering the zoo's educational project with unit tests
