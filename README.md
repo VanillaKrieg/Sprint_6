@@ -1,1 +1,1 @@
-Covering the zoo's educational project with unit tests
+# Educational project. Covering part of the zoological program code with unit tests
